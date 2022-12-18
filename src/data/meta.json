@@ -2,7 +2,7 @@
     "title": "Clean Furry Comics",
     "description": "A collection of family-friendly furry webcomics!",
     "image": "cat.png",
-    "url": "https://cleancomics.netlify.com",
+    "url": "https://cleancomics.netlify.app",
     "repo": "https://github.com/kamblack/cleancomics",
     "admins": [
         {
