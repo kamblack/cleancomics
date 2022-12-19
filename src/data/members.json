@@ -3,5 +3,10 @@
         "title": "Studio Yip!",
         "url": "https://studioyip.com/",
         "feed": null
+    },
+    {
+        "title": "Jay Lark Studios",
+        "url": "https://jaylarkstudios.com/",
+        "feed": "https://jaylarkstudios.com/rss.xml"
     }
 ]
