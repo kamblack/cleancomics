@@ -1,8 +1,8 @@
 {
-    "title": "Clean Furry Comics",
-    "description": "A collection of family-friendly furry webcomics!",
+    "title": "Clean Furs Club",
+    "description": "A club of SFW, family-friendly furry creators on the web!",
     "image": "cat.png",
-    "url": "https://cleancomics.netlify.app",
+    "url": "https://cleanfurs.club",
     "repo": "https://github.com/kamblack/cleancomics",
     "admins": [
         {
